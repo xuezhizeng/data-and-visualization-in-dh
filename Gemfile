@@ -1,12 +1,12 @@
 source "https://rubygems.org"
 
 group :production do
-  gem "jekyll", ">2.5.0"
-  gem "jekyll_figure", "~>0.0.3"
-  gem "pandoc-ruby", "~>0.7.5"
+  gem "jekyll", "~>3.0.1"
+  gem "jekyll-pandoc"
+  gem "pandoc-ruby"
 end
 
 group :development do
-  gem "rake", ">=10.3.2"
+  gem "rake"
 end
 

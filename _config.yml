@@ -5,7 +5,8 @@ source: source
 destination: public
 
 # Build settings
-plugins: plugins
+gems: 
+  - jekyll-pandoc
 markdown: pandoc
 pandoc:
   extensions:
@@ -18,18 +19,18 @@ draft: false
 
 # Course information
 title: "Data and Digital History"
-course_catalog: 
+course_catalog: http://chss.gmu.edu/courses/hist688/course_sections/26582
 course_credithours: 3
 course_department: Dept. of History and Art History
 course_university: George Mason Univ.
-course_meetingtime: ""
-course_number: ""
-course_room: ""
+course_meetingtime: "Wednesdays, 7:20 to 10:00 p.m."
+course_number: "HIST 688-001"
+course_room: "Aquia Building 219"
 course_semester: "Spring 2016"
-course_blog: 
+# course_blog: 
 instructor_email: lmullen@gmu.edu
 instructor_name: Lincoln Mullen
 instructor_office: "Research Hall 457"
-instructor_officehours: TBD
-instructor_officehours_link: http://lincolnmullen.com/officehours
+instructor_officehours: Office hours by appointment
+# instructor_officehours_link: http://lincolnmullen.com/officehours
 instructor_website: http://lincolnmullen.com

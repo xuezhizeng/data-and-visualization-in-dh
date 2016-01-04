@@ -5,7 +5,7 @@ task :preview do
 
   puts "Previewing the site locally with Jekyll."
 
-  jekyllPid  = Process.spawn("jekyll build --watch --config _config.yml,_config-pow.yml")
+  jekyllPid  = Process.spawn("jekyll build --watch --incremental --config _config.yml,_config-pow.yml")
 
   trap("INT") {
     [jekyllPid].each { |pid| Process.kill(9, pid) rescue Errno::ESRCH }
@@ -31,7 +31,7 @@ task :rsync do
   rsync_delete   = true
   rsync_options  = "--checksum --stats -avze"
   public_dir     = "public" 
-  document_root  = "~/public_html/lincolnmullen.com/courses/religion-capitalism.2015"
+  document_root  = "~/public_html/lincolnmullen.com/courses/data-dh.2016/"
 
   exclude = ""
   if File.exists?('./rsync-exclude')

@@ -105,3 +105,20 @@ td {
   margin-bottom: -0.2rem;
 }
 
+
+figure {
+  margin: 0;
+}
+
+figure img {
+  max-width: 100%;
+  padding: 5px;
+  border: 1px solid gray;
+}
+
+
+figcaption {
+  font-size: 0.9em;
+  margin-left: 3em;
+}
+

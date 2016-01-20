@@ -1,5 +1,5 @@
 # Site settings
-baseurl: "/courses/data-dh.2015"
+baseurl: "/courses/data-dh.2016"
 url: "http://lincolnmullen.com/courses/data-dh.2016"
 source: source
 destination: public

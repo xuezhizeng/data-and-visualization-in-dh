@@ -51,7 +51,7 @@ Assignment:
 
 ## Week 4 (Feb. 10): Crash course in R
 
-Read or skim:
+Read:
 
 -   Kaplan, *Data Computing*, chs. 1--4. If you want more of a challenge, try Arnold and Tilton, chs. 1--3 .
 -   Meirelles, ch. 1.
@@ -97,6 +97,10 @@ Assignment:
 -   Hadley Wickham, "[Tidy Data](http://www.jstatsoft.org/v59/i10/)" *The Journal of Statistical Software* 59, no. 10 (2014): 1--23.
 -   Hadley Wickham, "[The Split-Apply-Combine Strategy for Data Analysis](http://www.jstatsoft.org/article/view/v040i01)," *Journal of Statistical Software* 40, no. 1 (2011): 1--29.
 -   David Mimno, "[Data Carpentry](http://www.mimno.org/articles/carpentry/)," August 19, 2014.
+
+For reference:
+
+- [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide)
 
 Assignment:
 

@@ -49,3 +49,4 @@ I have drawn ideas or readings from the following syllabi:
 -   Shawn Graham, "[Crafting Digital History](http://site.craftingdigitalhistory.ca/)"
 -   Kieran Healy, "[Data Visualization](http://socviz.github.io/soc880/)"
 -   Ben Schmidt, "[Humanities Data Analysis](http://benschmidt.org/HDA15/?page_id=5)"
+-   Bill Turkel's [many digital history courses](http://williamjturkel.net/teaching/)

@@ -56,6 +56,10 @@ Read or skim:
 -   Kaplan, *Data Computing*, chs. 1--4. If you want more of a challenge, try Arnold and Tilton, chs. 1--3 .
 -   Meirelles, ch. 1.
 
+For reference:
+
+- Hadley Wickham, *[Advanced R](http://adv-r.had.co.nz/)* (Chapman & Hall, 2014).
+
 Assignment:
 
 -   Worksheet

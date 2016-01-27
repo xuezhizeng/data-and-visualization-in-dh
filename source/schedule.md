@@ -24,7 +24,7 @@ Assignment:
 Read:
 
 -   Schulten, *Mapping the Nation*
--   Shari Rabin, "'Let Us Endeavor to Count Them Up:' Statistics and American Judaism in the Nineteenth Century" (presented at the Association for Jewish Studies, Boston, MA, 2013).
+-   Shari Rabin, "'[Let Us Endeavor to Count Them Up:' Statistics and American Judaism in the Nineteenth Century](https://www.academia.edu/12370942/_Let_us_endeavor_to_count_them_up_Statistics_and_American_Judaism_in_the_Nineteenth_Century)" (presented at the Association for Jewish Studies, Boston, MA, 2013).
 -   Rodney Stark, "The Reliability of Historical United States Census Data on Religion," *Sociology of Religion* 53, no. 1 (1992): 91--95, doi:10.2307/3711631.
 -   "[Colleges, Universities and Churches](http://dsl.richmond.edu/historicalatlas/82/a/)" in Robert K. Nelson, Scott Nesbit, et al., *Atlas of the Historical Geography of the United States* (Digital Scholarship Lab).
 
@@ -54,7 +54,7 @@ Assignment:
 Read:
 
 -   Kaplan, *Data Computing*, chs. 1--4. If you want more of a challenge, try Arnold and Tilton, chs. 1--3 .
--   Meirelles, ch. 1.
+-   Meirelles, *Design for Information*, ch. 1.
 
 For reference:
 

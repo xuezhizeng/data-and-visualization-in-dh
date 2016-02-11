@@ -47,7 +47,7 @@ Read:
 Assignment:
 
 -   Complete the [Try R](http://tryr.codeschool.com/) exercises at Code School.
--   Worksheet
+-   Worksheet: [Getting familiar with R](http://lincolnmullen.com/projects/worksheets/familiar-with-r.html)
 
 ## Week 4 (Feb. 10): Crash course in R
 
@@ -62,7 +62,7 @@ For reference:
 
 Assignment:
 
--   Worksheet
+-   Worksheet: [Data structures](http://lincolnmullen.com/projects/worksheets/data-structures.html) and [Functions](http://lincolnmullen.com/projects/worksheets/functions.html)
 
 ## Week 5 (Feb. 17): Visualization with the grammar of graphics
 
@@ -79,7 +79,7 @@ For reference:
 -   Joanna Zhao and Jennifer Bryan, [R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/)
 -   [ggplot2 documentation](http://docs.ggplot2.org/current/)
 -   Winston Chang, [companion website](http://www.cookbook-r.com/Graphs/) to *R Graphics Cookbook*
--   Hadley Wickham, *[ggplot2: Elegant Graphics for Data Analysis](http://link.springer.com.mutex.gmu.edu/book/10.1007%2F978-0-387-98141-3)* (Springer, 2009),
+-   Hadley Wickham, *[ggplot2: Elegant Graphics for Data Analysis](http://link.springer.com.mutex.gmu.edu/book/10.1007%2F978-0-387-98141-3)* (Springer, 2009).
 
 Data visualization research for reference:
 
@@ -207,7 +207,7 @@ Read:
 
 For reference:
 
--   Eric D. Kolaczyk and Gábor Csárdi, [Statistical Analysis of Network Data with R](http://link.springer.com.mutex.gmu.edu/book/10.1007/978-0-387-88146-1) (Springer, 2014).
+-   Eric D. Kolaczyk and Gábor Csárdi, *[Statistical Analysis of Network Data with R](http://link.springer.com.mutex.gmu.edu/book/10.1007/978-0-387-88146-1)* (Springer, 2014).
 
 Assignment:
 

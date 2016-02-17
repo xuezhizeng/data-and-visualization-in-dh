@@ -77,6 +77,7 @@ Read:
 
 For reference:
 
+-   [Slides on visualization with the Grammar of Graphics](http://lincolnmullen.com/projects/helsinki-workshop/03-visualization.html)
 -   Joanna Zhao and Jennifer Bryan, [R Graph Catalog](http://shiny.stat.ubc.ca/r-graph-catalog/)
 -   [ggplot2 documentation](http://docs.ggplot2.org/current/)
 -   Winston Chang, [companion website](http://www.cookbook-r.com/Graphs/) to *R Graphics Cookbook*

@@ -91,7 +91,7 @@ Data visualization research for reference:
 
 Assignment:
 
--   Worksheet
+-   Worksheet: [Basics of ggplot2](http://lincolnmullen.com/projects/worksheets/ggplot2.html)
 
 ## Week 6 (Feb. 24): Data manipulation
 

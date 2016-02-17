@@ -43,6 +43,7 @@ Read:
 -   Laurie F. Maffly-Kipp, "If It's South Dakota You Must Be Episcopalian: Lies, Truth-Telling, and the Mapping of U.S. Religion." *Church History* 71, no. 1 (2002): 132--42.
 -   Laurie F. Maffly-Kipp, "Putting Religion on the Map." *The Journal of American History* 94, no. 2 (September 1, 2007): 522--29. doi:10.2307/25094964.
 -   Kieran Healy and James Moody, "[Data Visualization in Sociology](http://kieranhealy.org/files/papers/data-visualization.pdf)" *Annual Review of Sociology*, 40:105--128.
+-   Frederick W. Gibbs, "[New Forms of History: Critiquing Data and Its Representations](http://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/)," *The American Historian*, February 2016: <http://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/>.
 
 Assignment:
 

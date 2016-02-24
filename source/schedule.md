@@ -106,8 +106,8 @@ For reference:
 
 Assignment:
 
--   Worksheet
--   Begin transcribing historical data, chosen in consultation with me. Transcription should be substantially begun by next meeting, and substantially completed by the end of spring break.
+-   Worksheet: [Basic data manipulation with dplyr](http://lincolnmullen.com/projects/worksheets/data-manipulation.html)
+-   Begin transcribing historical data, chosen in consultation with me. This data should be the basis of at least one of your visualization essays in the class. The data that you transcribe will be used for the week on exploratory data analysis, and it must be amenable to manipulation with dplyr/tidyr and visualization with ggplot2. Transcription should be substantially begun by next meeting, and substantially completed by the end of spring break.
 
 ## Week 7 (Mar. 2): Data manipulation continued; gathering historical data
 

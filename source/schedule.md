@@ -117,7 +117,7 @@ Read:
 
 Assignment:
 
--   Worksheet
+-   Worksheet: [More data manipulation](http://lincolnmullen.com/projects/worksheets/more-data-manipulation.html)
 -   Complete transcription of historical data.
 
 ## Spring break (Mar. 9)

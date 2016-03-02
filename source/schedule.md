@@ -133,7 +133,7 @@ Read:
 For reference:
 
 -   Roger D. Peng, *[Exploratory Data Analysis with R](https://leanpub.com/exdata)* (Leanpub, 2015).
--   Gareth James, *An Introduction to Statistical Learning with Applications in R* (Springer, 2013).
+-   Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani, *[An Introduction to Statistical Learning with Applications in R](http://link.springer.com.mutex.gmu.edu/book/10.1007/978-1-4614-7138-7)* (Springer, 2013).
 
 Assignment:
 

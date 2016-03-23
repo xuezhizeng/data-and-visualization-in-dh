@@ -137,7 +137,7 @@ For reference:
 
 Assignment:
 
--   Worksheet
+-   Worksheet: [Exploratory Data Analysis](http://lincolnmullen.com/projects/worksheets/exploratory-data-analysis.html)
 
 ## Week 9 (Mar. 23): Mapping
 
@@ -157,8 +157,7 @@ For reference:
 
 Assignment:
 
--   Worksheet
--   Find and, if necessary, transcribe a data set with a spatial component that has not been geocoded.
+-   Worksheet: [Basic Mapping](http://lincolnmullen.com/projects/worksheets/mapping.html)
 
 ## Week 10 (Mar. 30): Geocoding and georeferencing
 
